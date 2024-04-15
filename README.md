@@ -20,8 +20,8 @@ Our Question : How do we improve customer service in e-commerce websites in orde
 
 ### 2. [Data Cleaning]()
 ### 3. [Exploratory Data Analysis (EDA)]()
-### 3. [Machine Learning]()
-### 4. Data Driven Insights & Conclusion
-### 5. References
+### 4. [Machine Learning]()
+### 5. Data Driven Insights & Conclusion
+### 6. References
 
 
