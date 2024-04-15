@@ -22,8 +22,7 @@ Table of Content
 6. [References]()\
 --
 
-Content 
---
+
 1. # Problem Formulation
 2. # Data Cleaning
 3. # EDA
