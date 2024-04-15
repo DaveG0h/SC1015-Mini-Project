@@ -30,10 +30,12 @@ Content
 Dataset : https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data \
 Our Question : How do we improve customer service in e-commerce websites in order to improve reputability and thus profit?
 
-### 2. [Data Cleaning]()
+### 2. [Data Cleaning](rl.cleantest.ipynb)
 ### 3. [Exploratory Data Analysis (EDA)]()
 ### 4. [Machine Learning]()
 ### 5. Data Driven Insights & Conclusion
 ### 6. References
+-https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data
+-https://www.superoffice.com/blog/customer-experience-statistics/
 
 
