@@ -14,11 +14,11 @@ Description
 
 Table of Content
 --
-1. [Problem Formulation](Problem-Formulation)
+1. [Problem Formulation](#problem-formulation)
 2. [Data Cleaning]()
-3. [Exploratory Data Analysis] ()
+3. [Exploratory Data Analysis]()
 4. [Machine Learning]()
 5. [Data Driven Insights]()
 6. [References]()
 
-## 1. #Problem Formulation
+####### 1. #Problem Formulation
