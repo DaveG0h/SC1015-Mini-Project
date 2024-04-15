@@ -10,7 +10,18 @@ Members
 
 Description
 --
+The primary objective of this notebook is to analyze the CSAT trends and patterns within an e-commerce dataset. Specifically, we aim to:
+- Analyze CSAT trends and patterns in e-commerce data.
+- Visualize relationships between factors and CSAT scores.
+- Analyze scores across agents, supervisors, categories, etc.
+- Explore CSAT score trends for recurring patterns.
+- Identify factors influencing CSAT scores.
+- Provide recommendations to enhance customer satisfaction.
 
+Relevancy
+--
+“In their future of CX report, PwC surveyed 15,000 consumers and found that 1 in 3 customers will leave a brand they love after just one bad experience, while 92% would completely abandon a company after two or three negative interactions.”
+[link] (https://www.superoffice.com/blog/customer-experience-statistics/)
 
 Content
 --
