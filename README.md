@@ -20,12 +20,4 @@ Table of Content
 4. [Machine Learning]()
 5. [Data Driven Insights]()
 6. [References]()\
---
 
-
-1. # Problem Formulation
-2. # Data Cleaning
-3. # EDA
-4. # Machine Learning
-5. # Insights
-6. # References
