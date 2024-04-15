@@ -19,9 +19,11 @@ Table of Content
 3. [Exploratory Data Analysis]()
 4. [Machine Learning]()
 5. [Data Driven Insights]()
-6. [References]() <br/>
---
+6. [References]()
 
-1. content
+
+Content
+--
+1. ###### Problem Formulation 
 
 
