@@ -34,8 +34,8 @@ Our Question : How do we improve customer service in e-commerce websites in orde
 ### 3. [Exploratory Data Analysis (EDA)](edatest.ipynb)
 ### 4. [Machine Learning](mltest.ipynb)
 ### 5. Data Driven Insights & Conclusion
-### 6. References
--https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data
--https://www.superoffice.com/blog/customer-experience-statistics/
+### 6. References 
+- https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data
+- https://www.superoffice.com/blog/customer-experience-statistics/
 
 
