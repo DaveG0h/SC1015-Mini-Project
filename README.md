@@ -1,5 +1,5 @@
 # SC1015-Mini-Project - eCommerce Customer Service Satisfaction
-Lab : FDAB__
+Lab : FDAB\
 Group : 5
 
 Members 
