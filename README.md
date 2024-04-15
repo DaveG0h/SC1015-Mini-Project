@@ -20,8 +20,9 @@ The primary objective of this notebook is to analyze the CSAT trends and pattern
 
 Relevancy
 --
+[link](https://www.superoffice.com/blog/customer-experience-statistics/) \
 “In their future of CX report, PwC surveyed 15,000 consumers and found that 1 in 3 customers will leave a brand they love after just one bad experience, while 92% would completely abandon a company after two or three negative interactions.”
-[link] (https://www.superoffice.com/blog/customer-experience-statistics/)
+
 
 Content
 --
