@@ -15,7 +15,7 @@ Description
 Content
 --
 ### 1. Problem Formulation
-Dataset : https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data
+Dataset : https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data \
 Our Question : How do we improve customer service in e-commerce websites in order to improve reputability and thus profit?
 
 ### 2. [Data Cleaning]()
