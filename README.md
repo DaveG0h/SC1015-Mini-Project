@@ -20,8 +20,7 @@ The primary objective of this notebook is to analyze the CSAT trends and pattern
 
 Relevancy
 --
-[link](https://www.superoffice.com/blog/customer-experience-statistics/) \
-“In their future of CX report, PwC surveyed 15,000 consumers and found that 1 in 3 customers will leave a brand they love after just one bad experience, while 92% would completely abandon a company after two or three negative interactions.”
+[link](https://www.superoffice.com/blog/customer-experience-statistics/) “In their future of CX report, PwC surveyed 15,000 consumers and found that 1 in 3 customers will leave a brand they love after just one bad experience, while 92% would completely abandon a company after two or three negative interactions.”
 
 
 Content
@@ -31,8 +30,11 @@ Dataset : https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-sati
 Our Question : How do we improve customer service in e-commerce websites in order to improve reputability and thus profit?
 
 ### 2. [Data Cleaning](cleantest.ipynb)
+add description
 ### 3. [Exploratory Data Analysis (EDA)](edatest.ipynb)
+add description
 ### 4. [Machine Learning](mltest.ipynb)
+add description
 ### 5. Data Driven Insights & Conclusion
 ### 6. References 
 - https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data
