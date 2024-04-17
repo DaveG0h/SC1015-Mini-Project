@@ -34,12 +34,17 @@ Our Question : How do we improve customer service in e-commerce websites in orde
 - Used new "Order_made" and "order id" to remove and row that NULL order ID and "Order_made" = 0
 - Remove the columns of "Customer_City" as no relation to CSAT
 - Remove the column of "connected_handling_time" as majority are NULL
-- Added and cleaned response_time = issue_responded - issue_reported
+- Added and cleaned response_time_minutes = issue_responded - issue_reported
 - Added "remarks_length" to get the length of customer remarks, for later use in EDA/ML
 - Split the dataset into 3 categories 1. both with/without order made 2. with order made 3. without order made
 
 ### 3. [Exploratory Data Analysis (EDA)](edatest.ipynb)
-add description
+From the data cleaning portion, this will be the categories that we will be using for EDA \
+Categorical nominal attributes : "channel_name", "category", "Sub-category", "Agent shift"
+Categorical ordinal attributes : "Tenure Bucket"
+Numerical continuous attributes : "remarks_length", "response_time_minutes"
+Response variable : CSAT Score
+
 ### 4. [Machine Learning](mltest.ipynb)
 add description
 ### 5. Data Driven Insights & Conclusion
