@@ -50,7 +50,7 @@ Response variable : CSAT Score\
 - Use SelectKBest to measure correlation with the response variable
 
 ### 4. [Machine Learning](mltest.ipynb)
-- Clean and use "Customer Remarks" for sentiment analysis instead of "remarks_length"
+- Clean and use "Customer Remarks" for sentiment analysis
 - Used classification tree to determine the relevant categories with relation to the response variable
 
 
