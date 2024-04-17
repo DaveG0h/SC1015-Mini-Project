@@ -40,14 +40,22 @@ Our Question : How do we improve customer service in e-commerce websites in orde
 
 ### 3. [Exploratory Data Analysis (EDA)](edatest.ipynb)
 From the data cleaning portion, this will be the categories that we will be using for EDA \
-Categorical nominal attributes : "channel_name", "category", "Sub-category", "Agent shift"
-Categorical ordinal attributes : "Tenure Bucket"
-Numerical continuous attributes : "remarks_length", "response_time_minutes"
-Response variable : CSAT Score
+Categorical nominal attributes : "channel_name", "category", "Sub-category", "Agent shift"\
+Categorical ordinal attributes : "Tenure Bucket"\
+Numerical continuous attributes : "remarks_length", "response_time_minutes", "Item_price"\
+Response variable : CSAT Score\
+
+- Utilise the variables and visualise trends against the CSAT score
+- Use LabelEncoder on categorical attribute
+- Use SelectKBest to measure correlation with the response variable
 
 ### 4. [Machine Learning](mltest.ipynb)
-add description
+- Clean and use "Customer Remarks" for sentiment analysis instead of "remarks_length"
+- Used classification tree to determine the relevant categories with relation to the response variable
+
+
 ### 5. Data Driven Insights & Conclusion
+
 ### 6. References 
 - https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data
 - https://www.superoffice.com/blog/customer-experience-statistics/
