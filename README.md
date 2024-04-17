@@ -31,15 +31,13 @@ Our Question : How do we improve customer service in e-commerce websites in orde
 
 ### 2. [Data Cleaning](cleantest.ipynb)
 - Added "Order_made" based on value of "order_date_time"
--- U
-
-- Use order_date_time to add Order_made
-- Made use of Order_made and order id to remove any row that has NULL order ID and ordermade = 0
-- Added remarks_length to measure the length of customer remarks
-- Remove the column of customer city as no relation to CSAT score
-- Remove the column of "connected_handling_time" as majority are NULL values
+- Used new "Order_made" and "order id" to remove and row that NULL order ID and "Order_made" = 0
+- Remove the columns of "Customer_City" as no relation to CSAT
+- Remove the column of "connected_handling_time" as majority are NULL
 - Added and cleaned response_time = issue_responded - issue_reported
-- Split the datset into 3 categories: 1. both 2. with order made 3. without order made
+- Added "remarks_length" to get the length of customer remarks, for later use in EDA/ML
+- Split the dataset into 3 categories 1. both with/without order made 2. with order made 3. without order made
+
 ### 3. [Exploratory Data Analysis (EDA)](edatest.ipynb)
 add description
 ### 4. [Machine Learning](mltest.ipynb)
