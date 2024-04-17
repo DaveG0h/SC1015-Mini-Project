@@ -30,7 +30,16 @@ Dataset : https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-sati
 Our Question : How do we improve customer service in e-commerce websites in order to improve reputability and thus profit?
 
 ### 2. [Data Cleaning](cleantest.ipynb)
-add description
+- Added "Order_made" based on value of "order_date_time"
+-- U
+
+- Use order_date_time to add Order_made
+- Made use of Order_made and order id to remove any row that has NULL order ID and ordermade = 0
+- Added remarks_length to measure the length of customer remarks
+- Remove the column of customer city as no relation to CSAT score
+- Remove the column of "connected_handling_time" as majority are NULL values
+- Added and cleaned response_time = issue_responded - issue_reported
+- Split the datset into 3 categories: 1. both 2. with order made 3. without order made
 ### 3. [Exploratory Data Analysis (EDA)](edatest.ipynb)
 add description
 ### 4. [Machine Learning](mltest.ipynb)
