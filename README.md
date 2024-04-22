@@ -55,6 +55,10 @@ Response variable : CSAT Score\
 
 
 ### 5. Data Driven Insights & Conclusion
+- Mainly agent response time and the sub-category for the customer review are what negatively affects customers’ satisfaction the most
+- Long response times and poor service in commission and login aspects of the e-commerce website resulted in lower CSAT scores
+- Improve by employing more staff or require staff to undergo more training in order to be more efficient and knowledgeable in responding to customers’ issues
+- Commissions and login services can be improved by upgrading relevant website facilities
 
 ### 6. References 
 - https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data
